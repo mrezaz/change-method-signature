@@ -23,3 +23,9 @@ command in command line:
 
 > `Ex: java -jar detect-refactorings-jar-with-dependencies.jar https://github.com/junit-team/junit4.git`
 
+# Tested Examples
+
+This tool has been tested on the following repositories:
+
+- [clojure repository](https://github.com/refdiff-data/clojure.git) ([CSV report](https://github.com/mrezaz/change-method-signature/blob/master/clojure-analysis-report.csv))
+- [junit4 repository](https://github.com/junit-team/junit4.git) ([CSV report](https://github.com/mrezaz/change-method-signature/blob/master/junit-analysis-report.csv))
